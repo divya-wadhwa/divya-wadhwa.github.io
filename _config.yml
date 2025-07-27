@@ -45,8 +45,8 @@ resume: /assets/resume/Resume_Divya_V_Wadhwa.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/divyavwadhwa/    # https://www.linkedin.com/in/{your url slug} 
-  github: divya-wadhwa   # https://github.com/{your url slug} 
+  linkedin:  # https://www.linkedin.com/in/divyavwadhwa/ 
+  github:   # https://github.com/divya-wadhwa 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -59,61 +59,57 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Excel
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - IF
+    - VLOOKUP
+    - INDEX-MATCH
+    - Conditional Formatting
+    - Pivot Tables
+    - Chart Generation
+    - Logical Operators
+    - Custom Formulae
+  - category: Python
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - Pandas
+    - matplotlib
+    - Conditionals
+    - Loops
+    - File I/O
+    - Plotting 
+    - Modular Coding
+  - category: MATLAB
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - Scripts
+    - Plotting
+    - Logical/relational operators 
+  - category: Mechanical Design & Troubleshooting
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - Pneumatic systems
+    - Frame alignment
+    - Custom bracket fabrication
+    - Sensor integration
+    - CAD-free assembly validation
+  - category: Systems Testing & Failure Analysis
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
-
-
-# Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+    - FMEA 
+    - Compliance with medical safety standards
+    - Multimeter diagnostics
+    - Signal amplification (op-amp)
+    - Stress/load evaluation
+    - Error tracing
+    - Safety validation
 
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#2d2d2d"
+  border: "#f8e2e2"
+  link: "#ff8fa3"
+  highlight: "##ff4d6d"
+  background: "#fff8f8"
+  light_background: "#fff5f6"
 
 # A few examples. 
 basic theme:
