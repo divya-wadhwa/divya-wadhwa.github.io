@@ -14,7 +14,7 @@ title: Divya Wadhwa Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Divya Wadhwa
 headline: headline message
-description: > - # dont remove this line. this will ignore all new lines until the next section
+description: >
 
   "🛠️ Mechanical Engineering Student | Python, MATLAB & Prototyping Projects"
 
