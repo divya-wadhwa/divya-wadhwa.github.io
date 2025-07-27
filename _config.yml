@@ -13,24 +13,14 @@ title: Divya Wadhwa Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Divya Wadhwa
-headline: headline message
-description: >
+headline: Mechanical Engineering Undergraduate Student
+description: |
 
-  "🛠️ Mechanical Engineering Student | Python, MATLAB & Prototyping Projects"
+  🛠️ Python, MATLAB, and Hands-on Engineering Projects
 
-  "Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry."
+  💡 Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry.
 
-  "💡 Projects focus on:"
-
-  "🔬 Oxygen Concentrator (EPICS BME): Built a low-cost, scalable oxygen concentrator for low-resource environments. Included microcontroller programming, hardware integration, and extensive design documentation."
-
-  "🔐 Steganography & Cryptography Tools (LSB encoding, Caesar/Vigenère/XOR ciphers in Python)"
-
-  "🖼️ Image Analysis & Processing (color detection, pixel comparison, histograms)"
-
-  "📈 Numerical Integration & Curve Fitting (Maclaurin series integration, absorbance analysis)"
-
-  "🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code."
+  🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code.
 
 
 
