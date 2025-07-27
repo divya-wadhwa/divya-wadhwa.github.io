@@ -16,11 +16,11 @@ name: Divya Wadhwa
 headline: Mechanical Engineering Undergraduate Student
 description: |
 
-  🛠️ Python, MATLAB, and Hands-on Engineering Projects
+  🛠️ Python, MATLAB, and Hands-on Engineering Projects<br>
 
-  💡 Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry.
+  💡 Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry.<br>
 
-  🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code.
+  🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code.<br>
 
 
 
@@ -97,12 +97,12 @@ formspree-key:   https://formspree.io/f/mrblqwkl
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#2d2d2d"
-  border: "#f8e2e2"
-  link: "#ff8fa3"
-  highlight: "##ff4d6d"
-  background: "#fff8f8"
-  light_background: "#fff5f6"
+  text: "#d0d0d0"
+  border: "#44475a"
+  link: "#8be9fd"
+  highlight: "#ff79c6"
+  background: "#1e1f29"
+  light_background: "#2a2d3e"
 
 # A few examples. 
 basic theme:
