@@ -18,9 +18,9 @@ description: |
 
   🛠️ Python, MATLAB, and Hands-on Engineering Projects<br>
 
-  💡 Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry.<br>
+  💡 Welcome to my portfolio! Keep scrolling to read about the engineering and computing projects I have worked on so far.<br>
 
-  🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code.<br>
+  🚀 Check out individual folders for detailed descriptions, images, live demos, visual outputs, and source code.<br>
 
 
 
@@ -99,7 +99,7 @@ formspree-key:   https://formspree.io/f/mrblqwkl
 colors: # tech-inspired dark theme
   text: "#d0d0d0"          # light gray text for contrast on dark bg
   border: "#44475a"        # muted dark slate border
-  link: "#8be9fd"          # bright cyan for links (tech vibe)
+  link: "#ff79c6"          # bright cyan for links (tech vibe)
   highlight: "#ff79c6"     # vibrant pink/purple highlight
   background: "#1e1f29"    # very dark blue/gray background
   light_background: "#2a2d3e" # slightly lighter dark bg for contrast areas
