@@ -14,23 +14,23 @@ title: Divya Wadhwa Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Divya Wadhwa
 headline: headline message
-description: >- # dont remove this line. this will ignore all new lines until the next section
-  
-"🛠️ Mechanical Engineering Student | Python, MATLAB & Prototyping Projects"
+description: > - # dont remove this line. this will ignore all new lines until the next section
 
-"Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry."
+  "🛠️ Mechanical Engineering Student | Python, MATLAB & Prototyping Projects"
 
-"💡 Projects focus on:"
+  "Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry."
 
-"🔬 Oxygen Concentrator (EPICS BME): Built a low-cost, scalable oxygen concentrator for low-resource environments. Included microcontroller programming, hardware integration, and extensive design documentation."
+  "💡 Projects focus on:"
 
-"🔐 Steganography & Cryptography Tools (LSB encoding, Caesar/Vigenère/XOR ciphers in Python)"
+  "🔬 Oxygen Concentrator (EPICS BME): Built a low-cost, scalable oxygen concentrator for low-resource environments. Included microcontroller programming, hardware integration, and extensive design documentation."
 
-"🖼️ Image Analysis & Processing (color detection, pixel comparison, histograms)"
+  "🔐 Steganography & Cryptography Tools (LSB encoding, Caesar/Vigenère/XOR ciphers in Python)"
 
-"📈 Numerical Integration & Curve Fitting (Maclaurin series integration, absorbance analysis)"
+  "🖼️ Image Analysis & Processing (color detection, pixel comparison, histograms)"
 
-"🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code."
+  "📈 Numerical Integration & Curve Fitting (Maclaurin series integration, absorbance analysis)"
+
+  "🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code."
 
 
 
