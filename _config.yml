@@ -7,17 +7,31 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Divya Wadhwa Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Divya Wadhwa
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  🛠️ Mechanical Engineering Student | Python, MATLAB & Prototyping Projects
+
+Welcome to my portfolio! This repository shows a selection of engineering and computing projects I have developed during my time at Purdue Universitry.
+
+💡 Projects focus on:
+
+🔬 Oxygen Concentrator (EPICS BME): Built a low-cost, scalable oxygen concentrator for low-resource environments. Included microcontroller programming, hardware integration, and extensive design documentation.
+
+🔐 Steganography & Cryptography Tools (LSB encoding, Caesar/Vigenère/XOR ciphers in Python)
+
+🖼️ Image Analysis & Processing (color detection, pixel comparison, histograms)
+
+📈 Numerical Integration & Curve Fitting (Maclaurin series integration, absorbance analysis)
+
+🚀 Check out individual folders for detailed READMEs, descriptions, images, live demos, visual outputs, and source code.
+
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
