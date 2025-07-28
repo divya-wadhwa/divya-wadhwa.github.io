@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Image‑Based Steganographic Encryption
-description: Modular encryption + LSB image embedding using XOR, Caesar & Vigenère ciphers
+description: Modular steganography tool combining encryption (XOR, Caesar, Vigenère) with LSB image embedding
 skills:
   - Python
   - NumPy
-  - PIL/Pillow
+  - PIL / Pillow
   - Matplotlib
   - Cryptography
   - Steganography
@@ -13,32 +13,31 @@ main-image: /assets/projects/steganography_demo.png
 ---
 
 ## 🔐 Project Overview
-Describe how this tool encrypts user-provided plaintext with either XOR, Caesar or Vigenère ciphers, converts it to binary, embeds it into a grayscale or RGB image via least-significant-bit steganography, and optionally visually compares encoded vs original image using a diff tool.
+A Python-based system to encrypt messages using XOR, Caesar, or Vigenère ciphers and embed them into images via least significant bit (LSB) steganography for secure message transmission.
 
 ## 🧪 Technical Approach
-- Modular cipher architecture (xor(), caesar(), vigenere())
-- `text_to_binary()` with custom start/end sequences and offset-based control
-- `encode_msg()` algorithm treating grayscale & RGB differently
-- `compare_images()` using Matplotlib to generate a visual diff heatmap
-- Full CLI user interface in `main.py`
+- Modular implementation of classical cipher techniques
+- Custom binary markers (start/end sequences) and bit offset control
+- Grayscale and RGB image LSB embedding via `encode_msg()`
+- Image diff visualization using `compare_images()`
 
 ## ⚙️ Skills & Tools
-- **Python** scripting and modular code structure
-- **NumPy** & **Pillow (PIL)** for image data handling
-- **Matplotlib** for binary image diff visualization
-- Implementation of classical cipher techniques and LSB steganography
-- CLI UX and file I/O error handling
-- Collaborative code development following academic integrity guidelines
-
-## 👥 Team Contribution
-Project built as part of Purdue’s ENGR 133 class (Assignment 11.1.1 Demo 1) by Lisette Mak, Olivia Varmo, Tavish Leslie, Divya Wadhwa — clearly defined roles in encryption logic, image processing, code cleanup, and documentation.
+- **Languages**: Python
+- **Libraries**: NumPy, Pillow (PIL), Matplotlib
+- **Concepts**: Cryptography, Steganography, Binary Data Encoding, CLI UX
 
 ## 🖼️ Visual Demo
-{% include image-gallery.html images="projects/steganography_demo.png, projects/steganography_encoded.png, projects/steganography_diff.png"%}
+{% include image-gallery.html images="projects/steganography_demo.png, projects/steganography_encoded.png, projects/steganography_diff.png" height="400"%}
 
-## 📚 Report
-Full technical write-up is available in the repo as [`report.pdf`](./report.pdf). Includes background, design decisions, examples, and results.
+## 📘 Report
+Download the full technical report: [report.pdf](./report.pdf)
 
-## 🧠 Impact & Applicability
-This project illustrates the intersection of classical cryptography and digital watermarking. Its modular design can be extended to more advanced encryption, larger cover media, and real-world applications in secure data transmission—showcasing creative problem-solving and systems thinking attractive to engineering internship recruiters.
+## 👥 Team & Contributions
+This project was completed as part of Purdue’s ENGR 133 assignment by:
+- Lisette Mak
+- Olivia Varmo
+- Tavish Leslie
+- Divya Wadhwa
 
+## 🧠 Applications & Future Work
+The tool showcases practical cryptography and image-based data hiding. It can be extended to color images, larger data payloads, advanced encryption, and real-world watermarking use cases.
